@@ -1,1 +1,0 @@
-https://egorluv.github.io/rsschool-cv/cv
