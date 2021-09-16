@@ -1,2 +1,3 @@
-#Egor Pashkovskiy
-##Junior Front-end Developer
+# Egor Pashkovskiy
+
+## Junior Front-end Developer
