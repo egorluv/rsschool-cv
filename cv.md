@@ -42,7 +42,8 @@ Soon, after a long work as a web designer, I was eager to build my career in IT,
 In this kata you will create a function that takes a list of non-negative integers and strings and returns a new list with the strings filtered out.  
 
 **Solution:**  
-```function filter_list(l) {  
+```javascript
+function filter_list(l) {  
   return l.filter(function(x) {  
     if (typeof(x) === 'number')  
       return true;  
